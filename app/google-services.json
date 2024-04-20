@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "375218722867",
+    "firebase_url": "https://quickpack-568f8-default-rtdb.firebaseio.com",
+    "project_id": "quickpack-568f8",
+    "storage_bucket": "quickpack-568f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375218722867:android:c3b08a2fef64e30d06eb46",
+        "android_client_info": {
+          "package_name": "com.example.quickpack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwIiXOYe0dOHLl4S9BWYTCOBJhbt_KeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

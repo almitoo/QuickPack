@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuickPack</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="QuickPack">QuickPack</string>
+    <string name="register">Register</string>
+    <string name="click_to_login_now">click to login now</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+
+    <string name="new_map_api_key">AIzaSyB_u13N_uX5XTUGwcjCxMisGY-vGM4XGJA</string>
+    <string name="client_id">375218722867-bple3v5efl1oh2nq95c7bh3caebi1o5o.apps.googleusercontent.com</string>
+    <string name="add_event">Add event....</string>
+
+</resources>
