@@ -45,7 +45,7 @@ public class CheckList extends AppCompatActivity {
     private EditText txtAdd;
     private Button btnAdd;
     private LinearLayout linearLayout;
-//1
+
 
     @Override
     public boolean onCreatePanelMenu(int featureId, @NonNull Menu menu) {
