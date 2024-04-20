@@ -58,6 +58,12 @@ public class CheckListAdapter extends RecyclerView.Adapter<CheckListViewHolder> 
         if(MyConstants.FALSE_STRING.equals(show)){
             holder.btnDelete.setVisibility(View.GONE);
         }
+        
+        else {
+            if (itemsList.get(position).isChecked()) {
+                holder.layout.setBackgroundColor(Color.parseColor("#F48FB1"));
+            }
+        }
 
 
         holder.checkBox.setOnClickListener(new View.OnClickListener() {
