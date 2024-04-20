@@ -7,7 +7,9 @@ With QuickPack packing for every trip becomes easy. The app includes predefined 
 The app also allows editing of each category by adding/deleting an item.
 QuickPack doesn't just provide lists. It also allows you to effortlessly update your travel dates on the integrated calendar, ensuring your packing timeline
 lines up perfectly with your itinerary. Plus, with the built-in integration of Google Maps, you can research your destination right from the app, helping you pack for the specific needs of your trip.
-The application has additional features such as a user profile. The application is based on a profile for each user with their personal data (Firebase Auth to manage users). In addition, the application saves all the user's information in real time 
+The application has additional features such as a user profile. 
+The application is based on a profile for each user with their personal data (Firebase Auth to manage users).
+In addition, the application saves all the user's information in real time 
 ( Firebase real time database)
 
 ##############################################################################
