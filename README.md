@@ -15,4 +15,4 @@ Important note:
 If the user wants to save his event also in the Google calendar application as the application offers
 The user will need to have the Google calendar app installed on his phone, otherwise he will receive a message warning that there is no app that supports the action.
 
-
+![luggage11](https://github.com/almitoo/QuickPack/assets/104629250/ef62b709-47b9-40ab-ae14-8492808e3ccd)
